@@ -1,7 +1,7 @@
 {
   "THARUZZ_FOOTER": "POWERED BY HASHU TECH ⚡",
   "AUTO_VIEW_STATUS": false,
-  "AUTO_LIKE_STATUS": "true",
+  "AUTO_LIKE_STATUS": false,
   "AUTO_RECORDING": "false",
   "AUTO_LIKE_EMOJI": [
     "😒",
