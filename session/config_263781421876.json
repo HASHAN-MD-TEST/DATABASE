@@ -2,7 +2,7 @@
   "THARUZZ_FOOTER": "POWERED BY HASHU TECH ⚡",
   "AUTO_VIEW_STATUS": "off",
   "AUTO_LIKE_STATUS": "off",
-  "AUTO_RECORDING": "true",
+  "AUTO_RECORDING": "off",
   "AUTO_LIKE_EMOJI": [
     "😒",
     "🍬",
